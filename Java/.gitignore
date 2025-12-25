@@ -1,0 +1,15 @@
+# Compilados
+*.class
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Pastas de build
+bin/
+out/
+target/
+
+# SO
+.DS_Store
